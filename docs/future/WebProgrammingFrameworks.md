@@ -4,7 +4,7 @@ Programming Frameworks
 Description
 -----------
 
-This course strengthen students' core technical ability of Web application system development.
+This course strengthens students' core technical ability of Web application system development.
 
 * Build the knowledge and skills required for the development of web systems based on front-end and back-end separation, which lays a solid technical foundation for the development of enterprise-level web application systems.
 * Students independently select technologies to solve a business problem based on a specification
